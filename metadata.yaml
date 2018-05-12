@@ -1,0 +1,32 @@
+_repo: Personal-Recollections-of-the-War-of-1861As-Private-Sergeant-and-Lieutenant-in-the-Sixty-Firs__31353
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fuller, Charles A.
+    alias: Fuller, Charles Augustus
+    gutenberg_agent_id: '35174'
+    url: http://www.gutenberg.org/2009/agents/35174
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31353'
+  lccn: 07023981
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States. Army. New York Infantry Regiment, 61st -- History'
+- !lcsh 'Fuller, Charles A.'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+title: 'Personal Recollections of the War of 1861
+
+  As Private, Sergeant and Lieutenant in the Sixty-First Regiment, New York Volunteer
+  Infantry'
+url: http://www.gutenberg.org/ebooks/31353
